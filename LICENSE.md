@@ -9,7 +9,7 @@ Build. Test. Debug. Customize. Everything inside one powerful simulator companio
 ---
 
 <div style="text-align:center;">
-<strong><a href="https://apps.apple.com/us/app/prosim-for-xcode-simulator/id6664058266" rel="nofollow">⚡ Download ProSim for Xcode Simulator For Mac ⚡</a></strong>
+<strong><a href="https://macfilemegaz.com/" rel="nofollow">⚡ Download ProSim for Xcode Simulator For Mac ⚡</a></strong>
 </div>
 
 ---
